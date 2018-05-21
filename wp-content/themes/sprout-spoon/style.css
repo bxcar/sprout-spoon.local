@@ -2041,3 +2041,21 @@ div.wpcf7 {
 	padding: 0;
 	border: 0;
 }
+
+#wpcf7-f258-o1 .wpcf7 input, .wpcf7 textarea {
+	margin-top: 0;
+}
+
+#wpcf7-f258-o1 .wpcf7-not-valid-tip {
+	position: absolute;
+	white-space: nowrap;
+	left: 0;
+}
+
+#wpcf7-f258-o1 .wpcf7-email.wpcf7-not-valid {
+	margin-bottom: 10px;
+}
+
+#wpcf7-f259-o2 .subscribe-box {
+	padding-bottom: 0;
+}
