@@ -1,0 +1,24 @@
+
+---Upload files---
+Widget file was not uploaded. Error: Файл пуст. Пожалуйста, загрузите что-то более существенное. Эта ошибка также может означать, что в php.ini запрещены загрузки, либо значение post_max_size меньше, чем upload_max_filesize.
+
+---Upload files---
+Customizer file was not uploaded. Error: Файл пуст. Пожалуйста, загрузите что-то более существенное. Эта ошибка также может означать, что в php.ini запрещены загрузки, либо значение post_max_size меньше, чем upload_max_filesize.
+
+---Upload files---
+Redux file was not uploaded. Error: Файл пуст. Пожалуйста, загрузите что-то более существенное. Эта ошибка также может означать, что в php.ini запрещены загрузки, либо значение post_max_size меньше, чем upload_max_filesize.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://sprout-spoon.local
+Data file = C:\OpenServer\domains\sprout-spoon.local/wp-content/uploads/2018/05/sproutspoon-demo-xml.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+

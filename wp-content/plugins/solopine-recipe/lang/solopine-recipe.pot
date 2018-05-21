@@ -1,0 +1,401 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Solo Pine  Recipe\n"
+"POT-Creation-Date: 2018-04-04 15:37-0800\n"
+"PO-Revision-Date: 2018-04-04 15:37-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;__;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../solopine-recipe.php:25
+msgid "Post Options"
+msgstr ""
+
+#: ../solopine-recipe.php:26
+msgid "Page Options"
+msgstr ""
+
+#: ../solopine-recipe.php:41
+msgid "Post Layout:"
+msgstr ""
+
+#: ../solopine-recipe.php:43
+msgid "Post With Sidebar"
+msgstr ""
+
+#: ../solopine-recipe.php:44
+msgid "Post Full Width"
+msgstr ""
+
+#: ../solopine-recipe.php:46
+msgid ""
+"Choose whether you want to display your post in a full width layout or with "
+"a sidebar."
+msgstr ""
+
+#: ../solopine-recipe.php:51
+msgid "Custom Featured Area Image:"
+msgstr ""
+
+#: ../solopine-recipe.php:53 ../solopine-recipe.php:314
+msgid "Choose or Upload an Image"
+msgstr ""
+
+#: ../solopine-recipe.php:54
+msgid ""
+"If you are planning to display this post/page in the featured area, you can "
+"set a custom image here.<br> If you leave this field blank, the slider will "
+"pick the featured image assigned to the post/page."
+msgstr ""
+
+#: ../solopine-recipe.php:59
+msgid "Recipe Card"
+msgstr ""
+
+#: ../solopine-recipe.php:61
+msgid "Display your Recipe Card using the following shortcode"
+msgstr ""
+
+#: ../solopine-recipe.php:64
+msgid "Recipe Title:"
+msgstr ""
+
+#: ../solopine-recipe.php:69
+msgid "Description:"
+msgstr ""
+
+#: ../solopine-recipe.php:71
+msgid "A short description of the recipe"
+msgstr ""
+
+#: ../solopine-recipe.php:75
+msgid "Recipe Author:"
+msgstr ""
+
+#: ../solopine-recipe.php:77
+msgid "Name of recipe author"
+msgstr ""
+
+#: ../solopine-recipe.php:81
+msgid "Servings:"
+msgstr ""
+
+#: ../solopine-recipe.php:83
+msgid "Example: 4"
+msgstr ""
+
+#: ../solopine-recipe.php:87
+msgid "Cooking time:"
+msgstr ""
+
+#: ../solopine-recipe.php:89
+msgid "Example: 1 hour"
+msgstr ""
+
+#: ../solopine-recipe.php:93
+msgid "Preparation time:"
+msgstr ""
+
+#: ../solopine-recipe.php:95
+msgid "Example: 30 minutes"
+msgstr ""
+
+#: ../solopine-recipe.php:99
+msgid "Total time:"
+msgstr ""
+
+#: ../solopine-recipe.php:101
+msgid "Example: 1 hour 30 minutes"
+msgstr ""
+
+#: ../solopine-recipe.php:105
+msgid "Ingredients:"
+msgstr ""
+
+#: ../solopine-recipe.php:107
+msgid "Type each ingredient on a new line."
+msgstr ""
+
+#: ../solopine-recipe.php:111
+msgid "Instructions:"
+msgstr ""
+
+#: ../solopine-recipe.php:113
+msgid "Type each step on a new line."
+msgstr ""
+
+#: ../solopine-recipe.php:117
+msgid "Notes:"
+msgstr ""
+
+#: ../solopine-recipe.php:119
+msgid "If you have any additional notes you can write them here."
+msgstr ""
+
+#: ../solopine-recipe.php:123 ../solopine-recipe.php:500
+msgid "Nutrition"
+msgstr ""
+
+#: ../solopine-recipe.php:125
+msgid "Calories:"
+msgstr ""
+
+#: ../solopine-recipe.php:127
+msgid "The number of calories"
+msgstr ""
+
+#: ../solopine-recipe.php:131
+msgid "Carbohydrate:"
+msgstr ""
+
+#: ../solopine-recipe.php:133
+msgid "The number of grams of carbohydrates"
+msgstr ""
+
+#: ../solopine-recipe.php:137
+msgid "Cholesterol:"
+msgstr ""
+
+#: ../solopine-recipe.php:139
+msgid "The number of milligrams of cholesterol."
+msgstr ""
+
+#: ../solopine-recipe.php:143
+msgid "Fat:"
+msgstr ""
+
+#: ../solopine-recipe.php:145
+msgid "The number of grams of fat."
+msgstr ""
+
+#: ../solopine-recipe.php:149
+msgid "Fiber:"
+msgstr ""
+
+#: ../solopine-recipe.php:151
+msgid "The number of grams of fiber."
+msgstr ""
+
+#: ../solopine-recipe.php:155
+msgid "Protein:"
+msgstr ""
+
+#: ../solopine-recipe.php:157
+msgid "The number of grams of protein."
+msgstr ""
+
+#: ../solopine-recipe.php:161
+msgid "Saturated fat:"
+msgstr ""
+
+#: ../solopine-recipe.php:163
+msgid "The number of grams of saturated fat."
+msgstr ""
+
+#: ../solopine-recipe.php:167
+msgid "Sodium:"
+msgstr ""
+
+#: ../solopine-recipe.php:169
+msgid "The number of milligrams of sodium."
+msgstr ""
+
+#: ../solopine-recipe.php:173
+msgid "Sugar:"
+msgstr ""
+
+#: ../solopine-recipe.php:175
+msgid "The number of grams of sugar."
+msgstr ""
+
+#: ../solopine-recipe.php:179
+msgid "Trans fat:"
+msgstr ""
+
+#: ../solopine-recipe.php:181
+msgid "The number of grams of trans fat."
+msgstr ""
+
+#: ../solopine-recipe.php:185
+msgid "Unsaturated fat:"
+msgstr ""
+
+#: ../solopine-recipe.php:187
+msgid "The number of grams of unsaturated fat."
+msgstr ""
+
+#: ../solopine-recipe.php:315
+msgid "Use this image"
+msgstr ""
+
+#: ../solopine-recipe.php:402
+msgid "Print Recipe"
+msgstr ""
+
+#: ../solopine-recipe.php:424
+msgid "By"
+msgstr ""
+
+#: ../solopine-recipe.php:426
+msgid "Serves"
+msgstr ""
+
+#: ../solopine-recipe.php:436
+msgid "Prep Time"
+msgstr ""
+
+#: ../solopine-recipe.php:441
+msgid "Cooking Time"
+msgstr ""
+
+#: ../solopine-recipe.php:462
+msgid "Ingredients"
+msgstr ""
+
+#: ../solopine-recipe.php:478
+msgid "Instructions"
+msgstr ""
+
+#: ../solopine-recipe.php:506
+msgid "Calories"
+msgstr ""
+
+#: ../solopine-recipe.php:514
+msgid "Carbohydrates"
+msgstr ""
+
+#: ../solopine-recipe.php:522
+msgid "Cholesterol"
+msgstr ""
+
+#: ../solopine-recipe.php:530
+msgid "Fat"
+msgstr ""
+
+#: ../solopine-recipe.php:538
+msgid "Fiber"
+msgstr ""
+
+#: ../solopine-recipe.php:546
+msgid "Protein"
+msgstr ""
+
+#: ../solopine-recipe.php:554
+msgid "Saturated fat"
+msgstr ""
+
+#: ../solopine-recipe.php:562
+msgid "Sodium"
+msgstr ""
+
+#: ../solopine-recipe.php:570
+msgid "Sugar"
+msgstr ""
+
+#: ../solopine-recipe.php:578
+msgid "Trans fat"
+msgstr ""
+
+#: ../solopine-recipe.php:586
+msgid "Unsaturated fat"
+msgstr ""
+
+#: ../solopine-recipe.php:597
+msgid "Notes"
+msgstr ""
+
+#: ../solopine-recipe.php:694
+msgid "Recipe Card Settings"
+msgstr ""
+
+#: ../solopine-recipe.php:857
+msgid "Disable Print Button"
+msgstr ""
+
+#: ../solopine-recipe.php:871
+msgid "Recipe Card Border Color"
+msgstr ""
+
+#: ../solopine-recipe.php:884
+msgid "Recipe Card Title Color"
+msgstr ""
+
+#: ../solopine-recipe.php:897
+msgid "Print Button Border Color"
+msgstr ""
+
+#: ../solopine-recipe.php:909
+msgid "Print Button BG Color"
+msgstr ""
+
+#: ../solopine-recipe.php:921
+msgid "Print Button Text Color"
+msgstr ""
+
+#: ../solopine-recipe.php:933
+msgid "Print Button Border Hover Color"
+msgstr ""
+
+#: ../solopine-recipe.php:945
+msgid "Print Button BG Hover Color"
+msgstr ""
+
+#: ../solopine-recipe.php:957
+msgid "Print Button Text Hover Color"
+msgstr ""
+
+#: ../solopine-recipe.php:970
+msgid "Recipe Card Servings/Time Color"
+msgstr ""
+
+#: ../solopine-recipe.php:982
+msgid "Servings/Time Icons"
+msgstr ""
+
+#: ../solopine-recipe.php:994
+msgid "Description Text Color"
+msgstr ""
+
+#: ../solopine-recipe.php:1007
+msgid "Ingredients, Instructions and Notes Title Color"
+msgstr ""
+
+#: ../solopine-recipe.php:1020
+msgid "Ingredients Text Color"
+msgstr ""
+
+#: ../solopine-recipe.php:1032
+msgid "Ingredients BG Color"
+msgstr ""
+
+#: ../solopine-recipe.php:1044
+msgid "Instructions Text Color"
+msgstr ""
+
+#: ../solopine-recipe.php:1056
+msgid "Instructions Step Number BG Color"
+msgstr ""
+
+#: ../solopine-recipe.php:1068
+msgid "Instructions Step Number Text Color"
+msgstr ""
+
+#: ../solopine-recipe.php:1080
+msgid "Notes Text Color"
+msgstr ""
+
+#: ../solopine-recipe.php:1092
+msgid "Nutrition Border Color"
+msgstr ""
+
+#: ../solopine-recipe.php:1104
+msgid "Nutrition Text Color"
+msgstr ""
